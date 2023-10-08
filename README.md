@@ -9,7 +9,6 @@
  
 - 🔭 I’m currently working on: Java 
 - 🌱 I’m currently learning: Web dev and DSA 
-- 👯 I’m looking to collaborate on: DSA
 - 📫 How to reach me: [Click here](http://www.linkedin.com/in/rohith-bhat-1884021b4)
 - 💡 Have a glimpse of what I do: [Click here](https://auth.geeksforgeeks.org/user/rohithbhat198)
 
@@ -40,10 +39,7 @@
  </div>
 <div align="center">    
 <img style="margin: 10px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="java" height="50" />  
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-
+ 
 
 </div></td></tr></table>  
 
