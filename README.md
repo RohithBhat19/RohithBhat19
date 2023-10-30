@@ -9,7 +9,7 @@
 - 🔭 Java | HTML | CSS | JavaScript | SQL 
 - 🌱 I’m currently learning: React.js
 - 📫 How to reach me: [Click here](http://www.linkedin.com/in/rohith-bhat-1884021b4)
-- 💡 Have a glimpse of what I do: [Click here](https://auth.geeksforgeeks.org/user/rohithbhat198)
+
 
 
 <div align="center">
