@@ -6,7 +6,7 @@
 
  
  
-- 🔭 Java | HTML | CSS | JavaScript | SQL 
+- 🔭 Java | HTML | CSS | JavaScript | SQL | JDBC | JSP
 - 🌱 I’m currently learning: React.js
 - 📫 How to reach me: [Click here](http://www.linkedin.com/in/rohith-bhat-1884021b4)
 
